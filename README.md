@@ -30,6 +30,7 @@ This project does not use an external API as it's a front-end application with d
 
 To run the project locally, follow the steps below:
 
+
 ### Clone the repository:
 ```bash
 git clone https://github.com/Rowanhamdy/TodoList.git
