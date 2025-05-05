@@ -48,9 +48,3 @@ cd list-app-server
 npm start
 
 
-📬 **Contact**  
-### If you have any questions, feel free to reach out:
-
-GitHub: Rowanhamdy
-
-Email: rowanhamdy@example.com
