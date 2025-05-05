@@ -1,0 +1,130 @@
+.bg-nav{
+    background-color: #5F33E1;
+
+}
+.Navbar a{
+    color: #fff;
+    text-decoration: none;
+}
+.main{
+    position: relative;
+}
+.main::after{
+    content: '';
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    width: 250px;
+    height: 1px;
+    background-color: #263238;
+}
+.main-btn a{
+
+    background-color: #5F33E1;
+    text-decoration: none;
+    color: #fff;
+}
+.main-btn a:hover{
+    background-color: #263238;
+    color: #fff;
+
+}
+
+.text-color{
+    color: #5F33E1;
+}
+.bg-form{
+    background-color: #EEE9FF;
+}
+.color-span{
+    color: #5F33E1;
+}
+.bg-p{
+    background-color:#646FD4;
+    color:#fff;
+}
+.bg-btn {
+    background-color:#646FD4;
+    color:#fff;
+}
+
+.link-form{
+    text-decoration: none;
+    color: #646FD4;
+}
+.btn-add Button{
+    background-color:#646FD4;
+    color:#fff;
+    text-align: center;
+}
+.img-add{
+    position: relative;
+    width: 25%;
+    height: 50%;
+}
+.image-add{
+    position: relative;
+    width: 25%;
+    height: 50%;
+}
+.image-add::after{
+    content: '';
+    background-image: url("/images/img6.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 60%;
+    right:25%;
+    transform: translateY(-50%);
+    width: 10%;
+    height: 25%;
+}
+.image-add::before{
+    content: '';
+    background-image: url("/images/img7.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 70%;
+    left:25%;
+    transform: translateY(-50%);
+    width: 10%;
+    height: 25%;
+}
+.img-add::after{
+content: '';
+background-image: url("/images/img1.avif");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+position: absolute;
+top: 10%;
+left:-30%;
+transform: translateY(-50%);
+width: 25%;
+height: 25%;
+z-index: 999;
+}
+.img-add::before{
+    content: '';
+    background-image: url("/images/img2.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 10%;
+    right: -30%;
+    transform: translateY(-50%);
+    width: 25%;
+    height: 25%;
+    z-index: 999;
+}
+
+.bg-list{
+    background-color: #f3f0ff;
+}
+.color-head{
+    color:#646FD4 ;
+}
