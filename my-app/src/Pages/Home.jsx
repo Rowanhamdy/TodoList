@@ -4,7 +4,7 @@ export default function Home() {
   return <>
   <div className="container">
     <div className='d-flex justify-content-center main'>
-    <img className='w-25' src="/images/4911411.webp" alt="" />
+    <img className='w-25  mt-5' src="/images/4911411.webp" alt="" />
     </div>
     <div>
     <h2 className='text-center'>Manage your tasks</h2>
