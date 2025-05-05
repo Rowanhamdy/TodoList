@@ -48,10 +48,7 @@ npm run dev
 cd list-app-server
 npm start
 
+```
 
-### 📬 Contact:
-- **GitHub**: https://github.com/Rowanhamdy.
-- **Email**: rowaaanhamdy2001@gmail.com.
 
-Let me know if you need further adjustments or additional sections!
 
